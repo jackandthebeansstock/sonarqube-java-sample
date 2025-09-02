@@ -1,0 +1,9 @@
+Timestamp,CPU_Usage_Percent,Memory_Usage_Percent,System_Status
+2025-09-02T09:00:00Z,45,60,Operational
+2025-09-02T09:05:00Z,48,62,Operational
+2025-09-02T09:10:00Z,52,65,Operational
+2025-09-02T09:15:00Z,78,85,Degraded
+2025-09-02T09:20:00Z,42,58,Operational
+2025-09-02T09:25:00Z,45,60,Operational
+2025-09-02T09:30:00Z,92,95,Critical
+2025-02-02T09:35:00Z,48,62,Operational
